@@ -20,6 +20,6 @@ self.end_with?("!")
    new_array = split(".")
    new_array2 = new_array
    new_array2 = split("?")
-   new_array.length
+   new_array2.length
   end
 end
