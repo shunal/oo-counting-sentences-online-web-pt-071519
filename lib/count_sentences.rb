@@ -19,4 +19,3 @@ self.end_with?("!")
    self.split(".")
    self.length
   end
-end
